@@ -1,0 +1,24 @@
+{
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "\"This is a test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npm run lite",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luanrsf/GitTest.git"
+  },
+  "author": "Luan Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luanrsf/GitTest/issues"
+  },
+  "homepage": "https://github.com/Luanrsf/GitTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
